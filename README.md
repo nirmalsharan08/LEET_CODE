@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 ## Two Pointers
