@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
 | ------- |
