@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
