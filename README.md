@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 ## Stack
@@ -99,4 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0278-first-bad-version) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
