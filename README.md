@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -183,4 +186,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
