@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 ## Math
 |  |
