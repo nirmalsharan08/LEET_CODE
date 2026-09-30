@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
