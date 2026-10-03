@@ -6,12 +6,11 @@
 6        for (int i = 0; i < nums.size(); i++) {
 7            if (nums[i] == 1) {
 8                temp++;
-9                if (temp > res)
-10                    res = temp;
-11            } 
-12            else
-13                temp = 0;
-14        }
-15        return res;
-16    }
-17};
+9                res=max(res,temp);
+10            } 
+11            else
+12                temp = 0;
+13        }
+14        return res;
+15    }
+16};
