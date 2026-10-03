@@ -6,8 +6,7 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] == 1) {
                 temp++;
-                if (temp > res)
-                    res = temp;
+                res=max(res,temp);
             } 
             else
                 temp = 0;
