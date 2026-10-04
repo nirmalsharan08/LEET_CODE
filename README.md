@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -225,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 ## Brainteaser
 |  |
 | ------- |
