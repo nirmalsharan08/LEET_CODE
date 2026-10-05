@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
+| [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
+| [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
+| [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
