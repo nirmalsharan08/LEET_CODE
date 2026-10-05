@@ -3,9 +3,7 @@ public:
     void reverse(vector<int>& nums, int left, int right)
     {
         while(right>left)
-        {
             swap(nums[left++],nums[right--]);
-        }
     }
     void rotate(vector<int>& nums, int k) {
         int n=nums.size();
