@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 ## String
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
