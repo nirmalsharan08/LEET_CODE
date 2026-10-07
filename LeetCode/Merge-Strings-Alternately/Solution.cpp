@@ -1,1 +1,0 @@
-return ''.join(c for pair in zip_longest(word1, word2, fillvalue='') for c in pair)
