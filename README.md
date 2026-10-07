@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0414-third-maximum-number) |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
