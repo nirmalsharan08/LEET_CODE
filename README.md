@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
