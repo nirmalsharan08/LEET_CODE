@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
