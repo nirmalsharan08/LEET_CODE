@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
 | [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
@@ -300,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
