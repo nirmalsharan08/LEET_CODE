@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
