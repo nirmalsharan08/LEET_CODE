@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -309,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
