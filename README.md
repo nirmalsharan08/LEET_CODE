@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
