@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0229-majority-element-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
