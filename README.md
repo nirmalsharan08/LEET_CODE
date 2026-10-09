@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [1051-height-checker](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3046-split-the-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/3046-split-the-array) |
