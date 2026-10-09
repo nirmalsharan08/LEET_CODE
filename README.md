@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
