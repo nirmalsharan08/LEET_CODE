@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
