@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
