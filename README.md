@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0867-transpose-matrix) |
 ## Breadth-First Search
 |  |
