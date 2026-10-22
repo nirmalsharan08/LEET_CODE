@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmalsharan08/LEET_CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
