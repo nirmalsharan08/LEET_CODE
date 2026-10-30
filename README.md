@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1732-find-the-highest-altitude) |
 ## Combinatorics
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0100-same-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
