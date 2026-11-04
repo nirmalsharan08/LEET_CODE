@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0242-valid-anagram) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0264-ugly-number-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmalsharan08/LEET_CODE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
 | ------- |
