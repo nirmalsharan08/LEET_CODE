@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0169-majority-element) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/nirmalsharan08/LEET_CODE/tree/master/0867-transpose-matrix) |
 ## Breadth-First Search
 |  |
